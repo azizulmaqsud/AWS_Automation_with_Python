@@ -18,7 +18,7 @@ Use your generated image:
 ➡ /architecture/architecture-diagram.png
 
 ________________________________________
-🚀 Project Features (100% Real-Time)
+🚀 Project Features 
 
 ✅ DynamoDB CRUD Operations
 
